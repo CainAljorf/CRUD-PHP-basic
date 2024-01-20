@@ -16,7 +16,7 @@ $conn = mysql_connect("localhost","root","root")
 $databaseHost = 'cochescain.net';
 $databaseName = 'cars';
 $databaseUsername = 'root';
-$databasePassword = 'camarber1';
+$databasePassword = '';
 
 $mysqli = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName); 
 ?>
